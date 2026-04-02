@@ -12,7 +12,7 @@
       "Bâtiments commerciaux à vendre en Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/01/E2638720308204645757_2436AL.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/01/E2638720308204645757_2436AL.jpg"
   },
   {
     "id": "29567",
@@ -26,7 +26,7 @@
     "categories": [
       "Bâtiments commerciaux à vendre en Belgique"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/08/immeuble-618-m2-marche-en-famenne-6900-1704273445-VI068_1_original.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/08/immeuble-618-m2-marche-en-famenne-6900-1704273445-VI068_1_original.jpg"
   },
   {
     "id": "30031",
@@ -44,6 +44,6 @@
       "Restaurants à remettre à Liège",
       "Restaurants à remettre à Namur"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/09/Restaurant-Ext-1.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/09/Restaurant-Ext-1.jpg"
   }
 ]

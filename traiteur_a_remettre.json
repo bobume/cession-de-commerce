@@ -12,7 +12,7 @@
       "Restaurants à remettre à Bruxelles",
       "Traiteur a remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/01/20250114_153150.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/01/20250114_153150.jpg"
   },
   {
     "id": "31502",
@@ -28,7 +28,7 @@
       "Restaurants à remettre à Bruxelles",
       "Traiteur a remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/04/1738059781897.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/04/1738059781897.webp"
   },
   {
     "id": "31856",
@@ -46,7 +46,7 @@
       "Snacks à remettre à Bruxelles",
       "Traiteur a remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/08/IMG_7083.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/08/IMG_7083.jpg"
   },
   {
     "id": "32360",
@@ -63,6 +63,6 @@
       "Snacks à remettre à Bruxelles",
       "Traiteur a remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/12/tajine-kefta-2-1024x683.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/12/tajine-kefta-2-1024x683.jpg"
   }
 ]

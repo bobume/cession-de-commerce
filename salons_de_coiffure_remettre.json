@@ -12,7 +12,7 @@
       "Commerces à louer Bruxelles | et Wallonie",
       "Salons de coiffure à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/002-.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/002-.jpeg"
   },
   {
     "id": "30939",
@@ -26,7 +26,7 @@
     "categories": [
       "Salons de coiffure à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/1737926609311.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/1737926609311.jpg"
   },
   {
     "id": "29887",
@@ -40,7 +40,7 @@
     "categories": [
       "Salons de coiffure à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/09/IMG_6105.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/09/IMG_6105.jpeg"
   },
   {
     "id": "31136",
@@ -54,7 +54,7 @@
     "categories": [
       "Salons de coiffure à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/WhatsApp-Image-2024-10-09-a-16.25.10_290cbb25.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/WhatsApp-Image-2024-10-09-a-16.25.10_290cbb25.jpg"
   },
   {
     "id": "31611",
@@ -68,7 +68,7 @@
     "categories": [
       "Salons de coiffure à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/04/WhatsApp-Image-2025-02-06-at-12.54.42.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/04/WhatsApp-Image-2025-02-06-at-12.54.42.webp"
   },
   {
     "id": "31619",
@@ -82,6 +82,6 @@
     "categories": [
       "Salons de coiffure à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/04/17459185233303446727022580472646.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/04/17459185233303446727022580472646.webp"
   }
 ]

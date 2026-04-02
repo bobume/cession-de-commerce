@@ -12,7 +12,7 @@
       "Commerces à vendre en France",
       "Nouveaux commerces à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/IMG_2131.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/IMG_2131.jpg"
   },
   {
     "id": "31996",
@@ -28,7 +28,7 @@
       "Commerces à vendre en France",
       "Nouveaux commerces à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/09/image0000081.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/09/image0000081.jpg"
   },
   {
     "id": "32195",
@@ -43,6 +43,6 @@
       "Commerces à vendre en France",
       "Nouveaux commerces à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/11/IND_3881-modifi_-300DPI.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/11/IND_3881-modifi_-300DPI.jpg"
   }
 ]

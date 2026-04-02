@@ -11,7 +11,7 @@
     "categories": [
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/12/20241008_111558.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/12/20241008_111558.jpg"
   },
   {
     "id": "30576",
@@ -26,7 +26,7 @@
       "Bâtiments commerciaux à vendre en Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/01/E2638720308204645757_2436AL.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/01/E2638720308204645757_2436AL.jpg"
   },
   {
     "id": "30254",
@@ -41,7 +41,7 @@
       "Car-wash à remettre",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/10/Carwash-tunnel.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/10/Carwash-tunnel.jpeg"
   },
   {
     "id": "29281",
@@ -57,7 +57,7 @@
       "Sociétés de services aux entreprises à remettre (B2B)",
       "Sociétés de services aux personnes à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/07/container.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/07/container.jpg"
   },
   {
     "id": "30403",
@@ -71,7 +71,7 @@
     "categories": [
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/11/rrrrrrrrrrrr.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/11/rrrrrrrrrrrr.jpg"
   },
   {
     "id": "30936",
@@ -86,7 +86,7 @@
       "Epiceries et supermarchés à vendre Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/294552117_566537868252721_8962428214384304297_n.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/294552117_566537868252721_8962428214384304297_n.jpg"
   },
   {
     "id": "31047",
@@ -101,7 +101,7 @@
       "Garages à remettre",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/IMG-20241211-WA0029.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/IMG-20241211-WA0029.jpeg"
   },
   {
     "id": "29615",
@@ -115,7 +115,7 @@
     "categories": [
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/08/1TR6C2.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/08/1TR6C2.jpg"
   },
   {
     "id": "30265",
@@ -130,7 +130,7 @@
       "Magasins divers à remettre",
       "Sociétés de services aux personnes à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/11/IMG-20241030-WA0029.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/11/IMG-20241030-WA0029.jpg"
   },
   {
     "id": "31141",
@@ -146,7 +146,7 @@
       "Immeubles commerciaux à louer en Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/2.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/2.jpg"
   },
   {
     "id": "31288",
@@ -162,7 +162,7 @@
       "Epiceries et supermarchés à vendre Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/Devanture-reduite.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/Devanture-reduite.jpg"
   },
   {
     "id": "31313",
@@ -178,7 +178,7 @@
       "Epiceries et supermarchés à vendre Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/20250328_145428.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/20250328_145428.jpg"
   },
   {
     "id": "31490",
@@ -194,7 +194,7 @@
       "Sociétés de services aux entreprises à remettre (B2B)",
       "Sociétés de services aux personnes à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/04/483d9400-7fb4-471c-ad4a-e21aa3a1d6f3.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/04/483d9400-7fb4-471c-ad4a-e21aa3a1d6f3.webp"
   },
   {
     "id": "31656",
@@ -209,6 +209,6 @@
       "Magasins divers à remettre",
       "Papeteries, librairies à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/05/20250515135757_00001.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/05/20250515135757_00001.webp"
   }
 ]

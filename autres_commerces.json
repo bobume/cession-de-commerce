@@ -14,7 +14,7 @@
       "Commerces recherchés",
       "Nouveaux commerces à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/09/dryclean.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/09/dryclean.jpeg"
   },
   {
     "id": "32325",
@@ -28,7 +28,7 @@
     "categories": [
       "Autres commerces"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/11/Tankstation5.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/11/Tankstation5.jpg"
   },
   {
     "id": "31479",
@@ -42,7 +42,7 @@
     "categories": [
       "Autres commerces"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/04/o.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/04/o.webp"
   },
   {
     "id": "31905",
@@ -56,7 +56,7 @@
     "categories": [
       "Autres commerces"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/09/Pharma-11.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/09/Pharma-11.jpeg"
   },
   {
     "id": "32109",
@@ -70,7 +70,7 @@
     "categories": [
       "Autres commerces"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/10/506749077_10162569651961904_4260527048941603468_n.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/10/506749077_10162569651961904_4260527048941603468_n.jpg"
   },
   {
     "id": "32592",
@@ -84,6 +84,6 @@
     "categories": [
       "Autres commerces"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2026/02/IMG-20230209-WA0015-1024x724.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2026/02/IMG-20230209-WA0015-1024x724.jpg"
   }
 ]

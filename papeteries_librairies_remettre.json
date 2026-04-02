@@ -11,7 +11,7 @@
     "categories": [
       "Papeteries, librairies à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/08/libra.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/08/libra.jpg"
   },
   {
     "id": "30970",
@@ -25,7 +25,7 @@
     "categories": [
       "Papeteries, librairies à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/IMG_2034.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/IMG_2034.jpeg"
   },
   {
     "id": "31642",
@@ -39,7 +39,7 @@
     "categories": [
       "Papeteries, librairies à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/05/PHOTO-2025-04-29-20-00-41-6.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/05/PHOTO-2025-04-29-20-00-41-6.webp"
   },
   {
     "id": "31656",
@@ -54,6 +54,6 @@
       "Magasins divers à remettre",
       "Papeteries, librairies à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/05/20250515135757_00001.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/05/20250515135757_00001.webp"
   }
 ]

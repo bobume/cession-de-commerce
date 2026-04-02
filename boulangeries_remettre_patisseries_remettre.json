@@ -13,7 +13,7 @@
       "Commerces Alimentaires de détails à remettre",
       "Nouveaux commerces à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/IMG_20230725_121355.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/IMG_20230725_121355.jpg"
   },
   {
     "id": "30978",
@@ -27,7 +27,7 @@
     "categories": [
       "Boulangeries à remettre, Patisseries à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/Photo-patons.png"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/Photo-patons.png"
   },
   {
     "id": "31313",
@@ -43,6 +43,6 @@
       "Epiceries et supermarchés à vendre Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/20250328_145428.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/20250328_145428.jpg"
   }
 ]

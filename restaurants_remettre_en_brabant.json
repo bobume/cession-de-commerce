@@ -12,7 +12,7 @@
       "Horeca à remettre | + de 350 commerces Horeca",
       "Restaurants à remettre en Brabant"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/09/20230111_103204.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/09/20230111_103204.jpg"
   },
   {
     "id": "30959",
@@ -26,7 +26,7 @@
     "categories": [
       "Restaurants à remettre en Brabant"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/480182101_1182028246820248_6471197197325676507_n.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/480182101_1182028246820248_6471197197325676507_n.jpg"
   },
   {
     "id": "31168",
@@ -45,6 +45,6 @@
       "Restaurants à remettre à Liège",
       "Restaurants à remettre en Brabant"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/image00011-1-1024x768.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/image00011-1-1024x768.jpeg"
   }
 ]

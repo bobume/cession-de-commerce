@@ -11,7 +11,7 @@
     "categories": [
       "Snacks à remettre à Namur"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/11/20240922_195758.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/11/20240922_195758.jpg"
   },
   {
     "id": "29530",
@@ -25,6 +25,6 @@
     "categories": [
       "Snacks à remettre à Namur"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/07/20180811_143358.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/07/20180811_143358.jpg"
   }
 ]

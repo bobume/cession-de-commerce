@@ -12,7 +12,7 @@
       "Car-wash à remettre",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/10/Carwash-tunnel.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/10/Carwash-tunnel.jpeg"
   },
   {
     "id": "23500",
@@ -26,6 +26,6 @@
     "categories": [
       "Car-wash à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2023/06/PHOTO-2023-05-21-13-42-37.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2023/06/PHOTO-2023-05-21-13-42-37.jpg"
   }
 ]

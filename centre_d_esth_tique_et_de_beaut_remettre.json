@@ -11,7 +11,7 @@
     "categories": [
       "Centre d'esthétique et de beauté à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/01/cabine.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/01/cabine.jpg"
   },
   {
     "id": "31101",
@@ -25,7 +25,7 @@
     "categories": [
       "Centre d'esthétique et de beauté à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/IMG_1990.png"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/IMG_1990.png"
   },
   {
     "id": "31126",
@@ -39,7 +39,7 @@
     "categories": [
       "Centre d'esthétique et de beauté à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/9dc18b16-9dba-452f-bc26-d31fb0faf3f3.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/9dc18b16-9dba-452f-bc26-d31fb0faf3f3.jpeg"
   },
   {
     "id": "31283",
@@ -54,7 +54,7 @@
       "Centre d'esthétique et de beauté à remettre",
       "Nouveaux commerces à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/IMG_2441.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/IMG_2441.jpeg"
   },
   {
     "id": "31288",
@@ -70,7 +70,7 @@
       "Epiceries et supermarchés à vendre Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/Devanture-reduite.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/Devanture-reduite.jpg"
   },
   {
     "id": "31280",
@@ -84,7 +84,7 @@
     "categories": [
       "Centre d'esthétique et de beauté à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/Corinne-Salon-November-21-2021-44.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/Corinne-Salon-November-21-2021-44.jpg"
   },
   {
     "id": "31464",
@@ -98,6 +98,6 @@
     "categories": [
       "Centre d'esthétique et de beauté à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/04/Sundream-Genval4.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/04/Sundream-Genval4.webp"
   }
 ]

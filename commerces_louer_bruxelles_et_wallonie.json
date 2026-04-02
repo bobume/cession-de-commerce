@@ -12,7 +12,7 @@
       "Commerces à louer Bruxelles | et Wallonie",
       "Salons de coiffure à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/002-.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/002-.jpeg"
   },
   {
     "id": "31141",
@@ -28,6 +28,6 @@
       "Immeubles commerciaux à louer en Belgique",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/2.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/2.jpg"
   }
 ]

@@ -14,7 +14,7 @@
       "Hôtels à vendre en Belgique",
       "Restaurants à remettre à Liège"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/08/20220620_154524.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/08/20220620_154524.jpg"
   },
   {
     "id": "30974",
@@ -28,6 +28,6 @@
     "categories": [
       "Commerces à vendre Luxembourg belge"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/20250220_160643.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/20250220_160643.jpg"
   }
 ]

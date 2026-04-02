@@ -11,7 +11,7 @@
     "categories": [
       "Commerces à vendre à l'étranger"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/IMG-20250117-WA0007.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/IMG-20250117-WA0007.jpg"
   },
   {
     "id": "31996",
@@ -27,6 +27,6 @@
       "Commerces à vendre en France",
       "Nouveaux commerces à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/09/image0000081.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/09/image0000081.jpg"
   }
 ]

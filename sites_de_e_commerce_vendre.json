@@ -11,7 +11,7 @@
     "categories": [
       "Sites de e-commerce à vendre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/11/Taobe-boutique.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/11/Taobe-boutique.jpg"
   },
   {
     "id": "31499",
@@ -25,6 +25,6 @@
     "categories": [
       "Sites de e-commerce à vendre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/04/Screenshot-2025-04-11-at-16.26.52.webp"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/04/Screenshot-2025-04-11-at-16.26.52.webp"
   }
 ]

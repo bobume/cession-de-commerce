@@ -11,7 +11,7 @@
     "categories": [
       "Garages à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2024/08/IMG-20240822-WA0007.jpg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2024/08/IMG-20240822-WA0007.jpg"
   },
   {
     "id": "31047",
@@ -26,7 +26,7 @@
       "Garages à remettre",
       "Magasins divers à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/02/IMG-20241211-WA0029.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/02/IMG-20241211-WA0029.jpeg"
   },
   {
     "id": "31316",
@@ -40,6 +40,6 @@
     "categories": [
       "Garages à remettre"
     ],
-    "image_url": "../Wordpress/wp-content/uploads/2025/03/1-3f9a1461.jpeg"
+    "image_url": "https://cession-de-commerce.be/wp-content/uploads/2025/03/1-3f9a1461.jpeg"
   }
 ]
