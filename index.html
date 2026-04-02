@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cession de Commerce - Belgique</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>Cession de Commerce</h1>
+            <p class="subtitle">Achetez, louez, remettez votre commerce en Belgique</p>
+        </header>
+
+        <div class="main-content">
+            <!-- Sidebar Catégories -->
+            <aside class="sidebar">
+                <h2>Catégories</h2>
+                <div id="categories-list" class="categories-list">
+                    <p class="loading">Chargement...</p>
+                </div>
+            </aside>
+
+            <!-- Main Content -->
+            <main class="content">
+                <!-- Liste des annonces -->
+                <section id="listings-view" class="view active">
+                    <div id="listings-header">
+                        <h2 id="category-title">Toutes les annonces</h2>
+                        <p id="listings-count" class="count"></p>
+                    </div>
+                    <div id="listings-grid" class="listings-grid">
+                        <p class="loading">Chargement des annonces...</p>
+                    </div>
+                </section>
+
+                <!-- Détail annonce -->
+                <section id="detail-view" class="view">
+                    <button id="back-btn" class="back-btn">← Retour</button>
+                    <article id="listing-detail" class="listing-detail">
+                        <p class="loading">Chargement...</p>
+                    </article>
+                </section>
+            </main>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2026 Cession de Commerce. Belgique</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
