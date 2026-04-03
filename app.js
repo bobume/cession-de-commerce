@@ -192,6 +192,73 @@ function showListingsView() {
     window.scrollTo(0, 0);
 }
 
+// ---- MODAL FORMULAIRE VENDEUR ----
+
+const API_URL = 'https://cdc.candidia.be';
+
+function openModal() {
+    document.getElementById('modal-overlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeModal(event) {
+    if (event && event.target !== document.getElementById('modal-overlay')) return;
+    document.getElementById('modal-overlay').classList.remove('open');
+    document.body.style.overflow = '';
+}
+
+async function submitAnnonce(event) {
+    event.preventDefault();
+
+    const btn = document.getElementById('btn-submit');
+    const status = document.getElementById('form-status');
+
+    const payload = {
+        titre: document.getElementById('f-titre').value.trim(),
+        type_commerce: document.getElementById('f-type').value.trim(),
+        ville: document.getElementById('f-ville').value.trim(),
+        prix: parseFloat(document.getElementById('f-prix').value) || null,
+        description: document.getElementById('f-description').value.trim(),
+        telephone: document.getElementById('f-telephone').value.trim() || null,
+        email: document.getElementById('f-email').value.trim(),
+    };
+
+    btn.disabled = true;
+    btn.textContent = 'Envoi en cours...';
+    status.className = 'form-status';
+    status.textContent = '';
+
+    try {
+        const response = await fetch(`${API_URL}/api/annonce`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+        });
+
+        const data = await response.json();
+
+        if (data.statut === 'accepté') {
+            status.className = 'form-status success';
+            status.textContent = 'Votre annonce a été reçue et sera publiée après modération. Merci !';
+            document.getElementById('form-annonce').reset();
+        } else if (data.statut === 'rejeté') {
+            status.className = 'form-status error';
+            status.textContent = `Annonce refusée : ${data.raison}`;
+        } else {
+            throw new Error('Réponse inattendue');
+        }
+    } catch (err) {
+        status.className = 'form-status error';
+        status.textContent = 'Une erreur est survenue. Veuillez réessayer dans quelques instants.';
+        console.error(err);
+    } finally {
+        btn.disabled = false;
+        btn.textContent = 'Envoyer mon annonce';
+    }
+}
+
+// ---- FIN MODAL ----
+
 // Utility: Sanitize filename
 function sanitizeFilename(str) {
     return str.toLowerCase()

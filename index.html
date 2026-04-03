@@ -12,7 +12,54 @@
         <header class="header">
             <h1>Cession de Commerce</h1>
             <p class="subtitle">Achetez, louez, remettez votre commerce en Belgique</p>
+            <button class="btn-deposer" onclick="openModal()">+ Déposer une annonce</button>
         </header>
+
+        <!-- Modal formulaire vendeur -->
+        <div id="modal-overlay" class="modal-overlay" onclick="closeModal(event)">
+            <div class="modal">
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+                <h2>Déposer une annonce</h2>
+                <p class="modal-subtitle">Votre annonce sera vérifiée et optimisée par notre IA avant publication.</p>
+
+                <form id="form-annonce" onsubmit="submitAnnonce(event)">
+                    <div class="form-group">
+                        <label for="f-titre">Titre de l'annonce *</label>
+                        <input type="text" id="f-titre" placeholder="Ex: Brasserie à remettre - Centre de Liège" required>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="f-type">Type de commerce *</label>
+                            <input type="text" id="f-type" placeholder="Ex: Brasserie, Friterie, Salon..." required>
+                        </div>
+                        <div class="form-group">
+                            <label for="f-ville">Ville *</label>
+                            <input type="text" id="f-ville" placeholder="Ex: Liège, Bruxelles..." required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="f-prix">Prix demandé (€)</label>
+                        <input type="number" id="f-prix" placeholder="Ex: 75000" min="0">
+                    </div>
+                    <div class="form-group">
+                        <label for="f-description">Description *</label>
+                        <textarea id="f-description" rows="5" placeholder="Décrivez votre commerce: superficie, équipements, chiffre d'affaires, raison de la vente..." required></textarea>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="f-telephone">Téléphone</label>
+                            <input type="tel" id="f-telephone" placeholder="Ex: 04 123 45 67">
+                        </div>
+                        <div class="form-group">
+                            <label for="f-email">Email de contact *</label>
+                            <input type="email" id="f-email" placeholder="votre@email.be" required>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn-submit" id="btn-submit">Envoyer mon annonce</button>
+                    <div id="form-status" class="form-status"></div>
+                </form>
+            </div>
+        </div>
 
         <div class="main-content">
             <!-- Sidebar Catégories -->
